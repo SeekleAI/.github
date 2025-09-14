@@ -1,0 +1,33 @@
+# Build artifacts
+dist/
+build/
+*.log
+
+# Dependencies
+node_modules/
+.npm
+.yarn
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Documentation build
+docs/_build/
+site/
